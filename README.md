@@ -19,3 +19,4 @@ PlayerFallDamage.cs (Karakterin Yüksekten Düşüp Düşmediğini Kontrol Ediyo
 Parkour.cs (Q ve E ile hem zamanı hemde parkuru yönetebildiğimiz script)
 ParkourDef.cs (Parkur Elementini XYZ Koordinatında Spesifik Hızda Kontrol Etmeyi Sağlayan Script)
 deneme/NextLevel.cs (Trigger Box ile Bir Sonraki Sahneyi Yüklüyor)
+GameManagerScript.cs (UI ve Ana Menüyü Kontrol Ediyor)
